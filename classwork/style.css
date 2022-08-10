@@ -1,0 +1,16 @@
+.cont{
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10rem;
+    >}
+
+.ez{
+    color: white;
+    background-color: black;
+    width: 7rem;
+}
+.left1{
+    display: flex;
+    justify-content: flex-end;
+}
